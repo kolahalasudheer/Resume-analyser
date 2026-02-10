@@ -1,0 +1,35 @@
+{
+    "scoring_weights": {
+        "keyword_match": 0.5,
+        "formatting": 0.25,
+        "ats_compliance": 0.25
+    },
+    "layer_combination_weights": {
+        "layer1": 0.4,
+        "layer2": 0.6
+    },
+    "fuzzy_match_threshold": 0.85,
+    "optimal_resume_length": {
+        "min_pages": 1,
+        "max_pages": 2
+    },
+    "min_font_size": 10,
+    "recommended_margins": {
+        "min_inches": 0.5,
+        "max_inches": 1.0
+    },
+    "grade_thresholds": {
+        "A+": 95,
+        "A": 90,
+        "B+": 85,
+        "B": 80,
+        "C": 70,
+        "D": 60,
+        "F": 0
+    },
+    "layer2_triggers": {
+        "semantic_match_threshold": 70,
+        "perfect_score_threshold": 90,
+        "formatting_threshold": 90
+    }
+}

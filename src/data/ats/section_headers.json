@@ -1,0 +1,71 @@
+{
+    "standard_headers": [
+        "Work Experience",
+        "Professional Experience",
+        "Employment History",
+        "Experience",
+        "Education",
+        "Academic Background",
+        "Qualifications",
+        "Skills",
+        "Technical Skills",
+        "Core Competencies",
+        "Projects",
+        "Key Projects",
+        "Notable Work",
+        "Certifications",
+        "Licenses and Certifications",
+        "Summary",
+        "Professional Summary",
+        "Profile",
+        "Objective",
+        "Career Objective",
+        "Awards",
+        "Honors and Awards",
+        "Achievements",
+        "Publications",
+        "Volunteer Experience",
+        "Volunteering",
+        "Languages",
+        "Interests"
+    ],
+    "experience_synonyms": [
+        "Work Experience",
+        "Professional Experience",
+        "Employment History",
+        "Career History",
+        "Work History",
+        "Experience"
+    ],
+    "education_synonyms": [
+        "Education",
+        "Academic Background",
+        "Educational Background",
+        "Academic Qualifications",
+        "Qualifications"
+    ],
+    "skills_synonyms": [
+        "Skills",
+        "Technical Skills",
+        "Core Competencies",
+        "Professional Skills",
+        "Key Skills",
+        "Expertise",
+        "Areas of Expertise"
+    ],
+    "projects_synonyms": [
+        "Projects",
+        "Key Projects",
+        "Notable Projects",
+        "Selected Projects",
+        "Project Work",
+        "Portfolio"
+    ],
+    "problematic_headers": [
+        "References",
+        "References Available Upon Request",
+        "About Me",
+        "Personal Information",
+        "Hobbies"
+    ]
+}

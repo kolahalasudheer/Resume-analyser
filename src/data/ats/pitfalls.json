@@ -1,0 +1,135 @@
+{
+    "formatting_pitfalls": [
+        {
+            "issue": "Images or Photos",
+            "description": "ATS cannot read images and may skip entire sections",
+            "severity": "critical",
+            "recommendation": "Remove all images, photos, and graphics"
+        },
+        {
+            "issue": "Complex Tables",
+            "description": "Multi-column tables can cause text to be read in wrong order",
+            "severity": "high",
+            "recommendation": "Use simple single-column layout or simple lists"
+        },
+        {
+            "issue": "Text Boxes",
+            "description": "ATS often cannot extract text from text boxes",
+            "severity": "high",
+            "recommendation": "Use standard text formatting instead"
+        },
+        {
+            "issue": "Headers and Footers",
+            "description": "Content in headers/footers may be ignored by ATS",
+            "severity": "medium",
+            "recommendation": "Put important info in main body"
+        },
+        {
+            "issue": "Fancy Fonts",
+            "description": "Decorative fonts may not be parsed correctly",
+            "severity": "medium",
+            "recommendation": "Use standard fonts: Arial, Calibri, Times New Roman, Garamond"
+        },
+        {
+            "issue": "Small Font Size",
+            "description": "Fonts smaller than 10pt may be unreadable",
+            "severity": "medium",
+            "recommendation": "Use 10-12pt font size"
+        },
+        {
+            "issue": "Special Characters",
+            "description": "Certain special characters can break ATS parsing",
+            "severity": "medium",
+            "recommendation": "Avoid: %, &, #, @, £, € in main content"
+        },
+        {
+            "issue": "Non-standard File Format",
+            "description": "Some ATS cannot handle .pages, .odt, or image formats",
+            "severity": "high",
+            "recommendation": "Always use .pdf or .docx format"
+        }
+    ],
+    "content_pitfalls": [
+        {
+            "issue": "Creative Section Names",
+            "description": "ATS may not recognize sections with creative titles",
+            "severity": "high",
+            "recommendation": "Use standard headers: 'Work Experience', 'Education', 'Skills'"
+        },
+        {
+            "issue": "Missing Contact Info",
+            "description": "ATS needs to find email and phone easily",
+            "severity": "critical",
+            "recommendation": "Put contact info at top in standard format"
+        },
+        {
+            "issue": "Acronyms Without Expansion",
+            "description": "ATS may not match acronyms to full terms",
+            "severity": "medium",
+            "recommendation": "Use both: 'Search Engine Optimization (SEO)'"
+        },
+        {
+            "issue": "Fancy Bullet Points",
+            "description": "Unicode symbols may not be recognized",
+            "severity": "low",
+            "recommendation": "Use simple bullets: •, -, or *"
+        },
+        {
+            "issue": "Irrelevant Keywords",
+            "description": "Keyword stuffing can be detected and penalized",
+            "severity": "medium",
+            "recommendation": "Use keywords naturally in context"
+        },
+        {
+            "issue": "Too Long Resume",
+            "description": "Resumes over 2 pages may not be fully parsed",
+            "severity": "medium",
+            "recommendation": "Keep to 1-2 pages for most roles"
+        }
+    ],
+    "file_naming": {
+        "good_examples": [
+            "FirstName_LastName_Resume.pdf",
+            "John_Doe_Resume.pdf",
+            "Jane_Smith_Software_Engineer.pdf"
+        ],
+        "bad_examples": [
+            "Resume.pdf",
+            "My Resume Final v2.pdf",
+            "CV_Updated.pdf",
+            "resume(1).pdf"
+        ],
+        "recommendation": "Use format: FirstName_LastName_Resume.pdf"
+    },
+    "problematic_characters": [
+        "%",
+        "&",
+        "#",
+        "@",
+        "£",
+        "€",
+        "©",
+        "®",
+        "™",
+        "§",
+        "¶"
+    ],
+    "safe_fonts": [
+        "Arial",
+        "Calibri",
+        "Times New Roman",
+        "Garamond",
+        "Georgia",
+        "Helvetica",
+        "Cambria",
+        "Verdana"
+    ],
+    "safe_bullet_points": [
+        "•",
+        "-",
+        "*",
+        "○",
+        "■",
+        "□"
+    ]
+}

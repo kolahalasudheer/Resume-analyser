@@ -1,0 +1,28 @@
+# PDF Processing
+pdfplumber==0.10.3
+PyPDF2==3.0.1
+
+# Text Processing
+nltk==3.8.1
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.23.0
+
+# Utilities
+python-dotenv==1.0.0
+regex==2023.10.3
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Data handling
+dataclasses-json==0.6.3
+
+# Web App
+streamlit>=1.28.0
+
+# PDF Generation
+reportlab>=4.0.0
+
+# LLM
+google-generativeai>=0.3.2

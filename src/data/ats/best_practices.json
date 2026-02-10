@@ -1,0 +1,165 @@
+{
+    "contact_information": {
+        "required": [
+            "email",
+            "phone"
+        ],
+        "recommended": [
+            "LinkedIn",
+            "location"
+        ],
+        "optional": [
+            "GitHub",
+            "portfolio",
+            "website"
+        ],
+        "email_patterns": [
+            "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+        ],
+        "phone_patterns": [
+            "^\\+?\\d{1,3}[-\\.\\s]?\\(?\\d{3}\\)?[-\\.\\s]?\\d{3}[-\\.\\s]?\\d{4}$",
+            "^\\(?\\d{3}\\)?[-\\.\\s]?\\d{3}[-\\.\\s]?\\d{4}$"
+        ]
+    },
+    "resume_structure": {
+        "recommended_sections": [
+            "Contact Information",
+            "Professional Summary (optional)",
+            "Work Experience",
+            "Education",
+            "Skills",
+            "Projects (if relevant)",
+            "Certifications (if applicable)"
+        ],
+        "section_order": [
+            "Contact",
+            "Summary",
+            "Experience",
+            "Education",
+            "Skills",
+            "Projects",
+            "Certifications"
+        ]
+    },
+    "formatting_best_practices": {
+        "font_size": {
+            "min": 10,
+            "max": 12,
+            "recommended": 11
+        },
+        "margins": {
+            "min_inches": 0.5,
+            "max_inches": 1.0,
+            "recommended_inches": 0.75
+        },
+        "line_spacing": {
+            "recommended": 1.15,
+            "max": 1.5
+        },
+        "page_length": {
+            "min": 1,
+            "max": 2,
+            "entry_level": 1,
+            "experienced": "1-2",
+            "senior_executive": "2-3"
+        }
+    },
+    "bullet_points": {
+        "best_practices": [
+            "Start with strong action verbs",
+            "Include quantifiable results",
+            "Use STAR method (Situation, Task, Action, Result)",
+            "Keep to 1-2 lines per bullet",
+            "Use 3-5 bullets per position"
+        ],
+        "strong_action_verbs": [
+            "Led",
+            "Developed",
+            "Implemented",
+            "Managed",
+            "Created",
+            "Designed",
+            "Architected",
+            "Built",
+            "Delivered",
+            "Improved",
+            "Optimized",
+            "Reduced",
+            "Increased",
+            "Achieved",
+            "Drove",
+            "Spearheaded"
+        ],
+        "weak_words_to_avoid": [
+            "Responsible for",
+            "Worked on",
+            "Helped with",
+            "Was involved in",
+            "Assisted",
+            "Participated"
+        ]
+    },
+    "keywords": {
+        "placement_strategy": [
+            "Include in skills section",
+            "Naturally integrate into bullet points",
+            "Use in professional summary",
+            "Match exact terms from job description"
+        ],
+        "best_practices": [
+            "Use both acronyms and full terms (e.g., 'AWS' and 'Amazon Web Services')",
+            "Include variations of skills (e.g., 'JavaScript' and 'JS')",
+            "Don't keyword stuff - use naturally",
+            "Prioritize hard skills over soft skills",
+            "Include industry-specific terminology"
+        ]
+    },
+    "file_format": {
+        "preferred": [
+            "PDF",
+            "DOCX"
+        ],
+        "avoid": [
+            "Pages",
+            "ODT",
+            "JPG",
+            "PNG",
+            "RTF"
+        ],
+        "pdf_best_practices": [
+            "Ensure text is selectable (not scanned image)",
+            "Use standard fonts",
+            "Flatten any form fields",
+            "Keep file size under 5MB"
+        ]
+    },
+    "dates": {
+        "recommended_formats": [
+            "January 2020 - Present",
+            "Jan 2020 - Present",
+            "01/2020 - Present",
+            "2020 - Present"
+        ],
+        "tips": [
+            "Use 'Present' for current positions",
+            "Be consistent with format throughout",
+            "Include month and year",
+            "List in reverse chronological order"
+        ]
+    },
+    "ats_optimization_checklist": [
+        "Use standard section headers",
+        "Include relevant keywords from job description",
+        "Use simple, clean formatting",
+        "Save as PDF or DOCX",
+        "Include complete contact information",
+        "Use standard fonts (10-12pt)",
+        "Avoid images, graphics, tables",
+        "Use simple bullet points",
+        "Include both acronyms and full terms",
+        "Keep to 1-2 pages",
+        "Use strong action verbs",
+        "Quantify achievements",
+        "Spell check and proofread"
+    ]
+}

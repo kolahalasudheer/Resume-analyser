@@ -1,0 +1,249 @@
+{
+    "leadership": {
+        "primary": [
+            "Leadership",
+            "Team Leadership",
+            "Team Management",
+            "People Management",
+            "Project Management",
+            "Program Management",
+            "Mentorship",
+            "Mentoring",
+            "Coaching",
+            "Team Building",
+            "Cross-functional Leadership"
+        ],
+        "related_phrases": [
+            "Led team",
+            "Managed team",
+            "Built team",
+            "Grew team",
+            "Scaled team",
+            "Mentored",
+            "Coached",
+            "Supervised",
+            "Directed",
+            "Guided",
+            "Led initiative",
+            "Spearheaded",
+            "Drove"
+        ]
+    },
+    "communication": {
+        "primary": [
+            "Communication",
+            "Written Communication",
+            "Verbal Communication",
+            "Presentation Skills",
+            "Public Speaking",
+            "Stakeholder Management",
+            "Client Communication",
+            "Documentation",
+            "Technical Writing"
+        ],
+        "related_phrases": [
+            "Presented to",
+            "Communicated with",
+            "Collaborated with",
+            "Documented",
+            "Wrote",
+            "Reported",
+            "Interfaced with",
+            "Liaised with",
+            "Coordinated with"
+        ]
+    },
+    "problem_solving": {
+        "primary": [
+            "Problem Solving",
+            "Analytical Thinking",
+            "Critical Thinking",
+            "Troubleshooting",
+            "Debugging",
+            "Root Cause Analysis",
+            "Decision Making"
+        ],
+        "related_phrases": [
+            "Solved",
+            "Resolved",
+            "Fixed",
+            "Debugged",
+            "Troubleshot",
+            "Analyzed",
+            "Investigated",
+            "Identified",
+            "Diagnosed",
+            "Optimized",
+            "Improved"
+        ]
+    },
+    "collaboration": {
+        "primary": [
+            "Collaboration",
+            "Teamwork",
+            "Cross-functional Collaboration",
+            "Interpersonal Skills",
+            "Relationship Building",
+            "Networking"
+        ],
+        "related_phrases": [
+            "Collaborated with",
+            "Worked with",
+            "Partnered with",
+            "Coordinated with",
+            "Aligned with",
+            "Engaged with",
+            "Built relationships",
+            "Fostered collaboration"
+        ]
+    },
+    "project_management": {
+        "primary": [
+            "Project Management",
+            "Agile Project Management",
+            "Scrum Master",
+            "Product Owner",
+            "Planning",
+            "Scheduling",
+            "Resource Management",
+            "Budget Management",
+            "Risk Management",
+            "Stakeholder Management"
+        ],
+        "related_phrases": [
+            "Planned",
+            "Organized",
+            "Managed project",
+            "Delivered project",
+            "Coordinated",
+            "Scheduled",
+            "Prioritized",
+            "Tracked",
+            "Monitored progress",
+            "Met deadlines"
+        ]
+    },
+    "innovation": {
+        "primary": [
+            "Innovation",
+            "Creative Thinking",
+            "Strategic Thinking",
+            "Initiative",
+            "Entrepreneurship",
+            "Vision",
+            "Forward Thinking"
+        ],
+        "related_phrases": [
+            "Innovated",
+            "Created",
+            "Designed",
+            "Developed",
+            "Pioneered",
+            "Introduced",
+            "Launched",
+            "Established",
+            "Initiated",
+            "Proposed"
+        ]
+    },
+    "adaptability": {
+        "primary": [
+            "Adaptability",
+            "Flexibility",
+            "Learning Agility",
+            "Resilience",
+            "Change Management",
+            "Fast Learner",
+            "Quick Learner"
+        ],
+        "related_phrases": [
+            "Adapted to",
+            "Learned",
+            "Transitioned",
+            "Pivoted",
+            "Embraced change",
+            "Quickly mastered",
+            "Self-taught"
+        ]
+    },
+    "attention_to_detail": {
+        "primary": [
+            "Attention to Detail",
+            "Quality Assurance",
+            "Accuracy",
+            "Precision",
+            "Thoroughness",
+            "Code Review",
+            "Quality Control"
+        ],
+        "related_phrases": [
+            "Ensured accuracy",
+            "Maintained quality",
+            "Reviewed",
+            "Validated",
+            "Verified",
+            "Tested",
+            "Audited"
+        ]
+    },
+    "time_management": {
+        "primary": [
+            "Time Management",
+            "Prioritization",
+            "Organization",
+            "Multi-tasking",
+            "Meeting Deadlines",
+            "Efficiency"
+        ],
+        "related_phrases": [
+            "Prioritized",
+            "Organized",
+            "Managed time",
+            "Met deadlines",
+            "Delivered on time",
+            "Balanced",
+            "Juggled",
+            "Optimized workflow"
+        ]
+    },
+    "customer_focus": {
+        "primary": [
+            "Customer Focus",
+            "Customer Service",
+            "Client Relations",
+            "User Experience",
+            "User-Centric",
+            "Customer Satisfaction"
+        ],
+        "related_phrases": [
+            "Improved customer",
+            "Enhanced user",
+            "Served clients",
+            "Supported customers",
+            "Satisfied clients",
+            "Retained customers",
+            "Increased satisfaction"
+        ]
+    },
+    "ownership": {
+        "primary": [
+            "Ownership",
+            "Accountability",
+            "Responsibility",
+            "Initiative",
+            "Self-Driven",
+            "Proactive",
+            "Independent"
+        ],
+        "related_phrases": [
+            "Owned",
+            "Took responsibility",
+            "Drove",
+            "Initiated",
+            "Self-managed",
+            "Independently",
+            "Autonomously",
+            "Took charge"
+        ]
+    }
+}

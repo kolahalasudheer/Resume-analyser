@@ -1,0 +1,162 @@
+{
+  "programming_languages": {
+    "primary": [
+      "Python", "Java", "JavaScript", "TypeScript", "C++", "C#", "Go", "Rust",
+      "Ruby", "PHP", "Swift", "Kotlin", "Scala", "R", "MATLAB", "Perl",
+      "Objective-C", "Dart", "Elixir", "Haskell", "Clojure", "F#"
+    ],
+    "aliases": {
+      "Python": ["Python3", "Python 3", "py", "python"],
+      "JavaScript": ["JS", "javascript", "ECMAScript", "ES6", "ES2015"],
+      "TypeScript": ["TS", "typescript"],
+      "C++": ["CPP", "C Plus Plus", "cpp"],
+      "C#": ["CSharp", "C Sharp", "csharp"],
+      "Objective-C": ["Objective C", "ObjC"]
+    }
+  },
+  
+  "frameworks_libraries": {
+    "web_frontend": [
+      "React", "Angular", "Vue", "Vue.js", "Svelte", "Next.js", "Nuxt.js",
+      "Gatsby", "Ember", "Backbone", "jQuery", "Bootstrap", "Tailwind CSS",
+      "Material UI", "Ant Design", "Chakra UI"
+    ],
+    "web_backend": [
+      "Django", "Flask", "FastAPI", "Express", "Express.js", "Nest.js",
+      "Spring Boot", "Spring", "ASP.NET", ".NET Core", "Ruby on Rails",
+      "Laravel", "Symfony", "Phoenix", "Gin", "Echo"
+    ],
+    "mobile": [
+      "React Native", "Flutter", "SwiftUI", "UIKit", "Jetpack Compose",
+      "Xamarin", "Ionic", "Cordova"
+    ],
+    "data_science": [
+      "TensorFlow", "PyTorch", "Keras", "scikit-learn", "Pandas", "NumPy",
+      "Matplotlib", "Seaborn", "Plotly", "SciPy", "Hugging Face", "LangChain"
+    ],
+    "aliases": {
+      "React": ["ReactJS", "React.js"],
+      "Vue": ["VueJS", "Vue.js"],
+      "Express": ["ExpressJS", "Express.js"],
+      "Spring Boot": ["SpringBoot"],
+      "ASP.NET": ["ASP.NET Core", "ASPNET"]
+    }
+  },
+  
+  "databases": {
+    "relational": [
+      "MySQL", "PostgreSQL", "SQLite", "Oracle", "SQL Server", "MariaDB",
+      "DB2", "Microsoft SQL Server"
+    ],
+    "nosql": [
+      "MongoDB", "Redis", "Cassandra", "DynamoDB", "CouchDB", "Neo4j",
+      "Elasticsearch", "Firebase", "Firestore"
+    ],
+    "aliases": {
+      "PostgreSQL": ["Postgres", "psql"],
+      "MongoDB": ["Mongo"],
+      "SQL Server": ["MSSQL", "Microsoft SQL Server"],
+      "Elasticsearch": ["Elastic Search"]
+    }
+  },
+  
+  "cloud_platforms": {
+    "providers": [
+      "AWS", "Azure", "GCP", "Google Cloud", "IBM Cloud", "Oracle Cloud",
+      "DigitalOcean", "Heroku", "Vercel", "Netlify"
+    ],
+    "aws_services": [
+      "EC2", "S3", "Lambda", "RDS", "DynamoDB", "CloudFront", "Route 53",
+      "ECS", "EKS", "SageMaker", "API Gateway", "CloudFormation"
+    ],
+    "azure_services": [
+      "Azure VM", "Azure Functions", "Azure SQL", "Cosmos DB", "Azure DevOps",
+      "Azure Kubernetes Service", "AKS"
+    ],
+    "gcp_services": [
+      "Compute Engine", "Cloud Functions", "BigQuery", "Cloud Storage",
+      "Google Kubernetes Engine", "GKE", "Cloud Run"
+    ],
+    "aliases": {
+      "AWS": ["Amazon Web Services"],
+      "Azure": ["Microsoft Azure"],
+      "GCP": ["Google Cloud Platform", "Google Cloud"]
+    }
+  },
+  
+  "devops_tools": {
+    "containers": [
+      "Docker", "Kubernetes", "Podman", "containerd", "OpenShift"
+    ],
+    "ci_cd": [
+      "Jenkins", "GitLab CI", "GitHub Actions", "CircleCI", "Travis CI",
+      "Azure DevOps", "TeamCity", "Bamboo", "ArgoCD", "Spinnaker"
+    ],
+    "iac": [
+      "Terraform", "Ansible", "Puppet", "Chef", "CloudFormation", "Pulumi"
+    ],
+    "monitoring": [
+      "Prometheus", "Grafana", "Datadog", "New Relic", "Splunk", "ELK Stack",
+      "CloudWatch", "Nagios"
+    ],
+    "aliases": {
+      "Kubernetes": ["K8s", "k8s"],
+      "GitLab CI": ["GitLab CI/CD"],
+      "GitHub Actions": ["GHA"],
+      "ELK Stack": ["Elasticsearch Logstash Kibana"]
+    }
+  },
+  
+  "version_control": {
+    "tools": [
+      "Git", "GitHub", "GitLab", "Bitbucket", "SVN", "Mercurial", "Perforce"
+    ],
+    "aliases": {}
+  },
+  
+  "testing": {
+    "frameworks": [
+      "Jest", "Mocha", "Chai", "Jasmine", "Pytest", "JUnit", "TestNG",
+      "NUnit", "Selenium", "Cypress", "Playwright", "Puppeteer",
+      "React Testing Library", "Enzyme"
+    ],
+    "types": [
+      "Unit Testing", "Integration Testing", "E2E Testing", "TDD", "BDD"
+    ],
+    "aliases": {
+      "E2E Testing": ["End-to-End Testing", "e2e"],
+      "TDD": ["Test Driven Development"],
+      "BDD": ["Behavior Driven Development"]
+    }
+  },
+  
+  "methodologies": {
+    "agile": [
+      "Agile", "Scrum", "Kanban", "SAFe", "Lean", "XP", "Extreme Programming"
+    ],
+    "practices": [
+      "CI/CD", "DevOps", "Microservices", "RESTful API", "REST API", "GraphQL",
+      "gRPC", "Event-Driven Architecture", "Domain-Driven Design", "DDD"
+    ],
+    "aliases": {
+      "CI/CD": ["Continuous Integration", "Continuous Deployment"],
+      "REST API": ["RESTful API", "REST"],
+      "DDD": ["Domain Driven Design"]
+    }
+  },
+  
+  "other_skills": {
+    "general": [
+      "API Development", "Microservices Architecture", "System Design",
+      "Data Structures", "Algorithms", "OOP", "Object-Oriented Programming",
+      "Functional Programming", "Distributed Systems", "Blockchain",
+      "Machine Learning", "Deep Learning", "NLP", "Computer Vision",
+      "Data Analysis", "ETL", "Big Data", "Hadoop", "Spark"
+    ],
+    "aliases": {
+      "OOP": ["Object Oriented Programming", "Object-Oriented Programming"],
+      "NLP": ["Natural Language Processing"],
+      "ETL": ["Extract Transform Load"]
+    }
+  }
+}
